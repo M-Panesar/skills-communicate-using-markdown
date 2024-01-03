@@ -1,5 +1,2 @@
-
-
-``` java
-String name="me";
-```
+- [x] voh hogi list checked
+- [ ] toh nahi hogi
